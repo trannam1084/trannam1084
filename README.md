@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trannam1084&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=trannam1084&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </div>
 
 ---
@@ -67,11 +67,11 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trannam1084&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trannam1084&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
@@ -79,7 +79,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=trannam1084&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ const developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trannam1084&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -97,17 +97,17 @@ const developer = {
 ### 🚀 Project 1
 - **Description**: A brief description of your amazing project
 - **Tech Stack**: React, Node.js, MongoDB
-- **Link**: [Live Demo](https://your-project-demo.com) | [GitHub](https://github.com/YOUR_USERNAME/project1)
+- **Link**: [Live Demo](https://your-project-demo.com) | [GitHub](https://github.com/trannam1084/project1)
 
 ### 🎨 Project 2
 - **Description**: Another awesome project you've built
 - **Tech Stack**: Vue.js, Express, PostgreSQL
-- **Link**: [Live Demo](https://your-project-demo.com) | [GitHub](https://github.com/YOUR_USERNAME/project2)
+- **Link**: [Live Demo](https://your-project-demo.com) | [GitHub](https://github.com/trannam1084/project2)
 
 ### 🔥 Project 3
 - **Description**: Your third featured project
 - **Tech Stack**: Next.js, TypeScript, Prisma
-- **Link**: [Live Demo](https://your-project-demo.com) | [GitHub](https://github.com/YOUR_USERNAME/project3)
+- **Link**: [Live Demo](https://your-project-demo.com) | [GitHub](https://github.com/trannam1084/project3)
 
 ---
 
@@ -121,16 +121,16 @@ const developer = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/trannam1084" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/trannam1084" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="https://twitter.com/trannam1084" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <a href="https://facebook.com/trannam1084" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -177,7 +177,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=trannam1084&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
