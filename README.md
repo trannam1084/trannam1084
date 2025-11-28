@@ -56,29 +56,14 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trannam1084&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trannam1084&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
 ## 💼 Featured Projects
 
 ### 🚀 Project 1
-- **Description**: A brief description of your amazing project
-- **Tech Stack**: React, Node.js, MongoDB
-- **Link**: [Live Demo](https://your-project-demo.com) | [GitHub](https://github.com/trannam1084/project1)
+- **Description**: RAG Chatbot project
+- **Tech Stack**: Streamlit, LangChain, Groq, Chroma, HuggingFace
+- **Link**: [GitHub](https://github.com/trannam1084/RAG-Chatbot)
 
+<!--
 ### 🎨 Project 2
 - **Description**: Another awesome project you've built
 - **Tech Stack**: Vue.js, Express, PostgreSQL
@@ -88,6 +73,7 @@ const developer = {
 - **Description**: Your third featured project
 - **Tech Stack**: Next.js, TypeScript, Prisma
 - **Link**: [Live Demo](https://your-project-demo.com) | [GitHub](https://github.com/trannam1084/project3)
+-->
 
 ---
 
@@ -109,20 +95,4 @@ const developer = {
   <a href="https://your-portfolio-website.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-```
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=trannam1084&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+😊;+Have+a+nice+day!+✨" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=65&section=footer"/>
 </div>
