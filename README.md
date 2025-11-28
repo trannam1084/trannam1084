@@ -44,18 +44,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trannam1084&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trannam1084&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
 ## 💼 Featured Projects
 
 ### 🚀 Project 1
