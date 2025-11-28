@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trannam1084&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trannam1084&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=trannam1084&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=trannam1084&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </div>
 
 ---
@@ -20,8 +20,6 @@ const developer = {
   role: "Undergraduate",
   location: "Vietnam",
   currentFocus: "Data Scientist",
-  hobbies: ["Coding", "Reading", "Gaming"],
-  funFact: "I love turning coffee into code ☕"
 };
 ```
 
@@ -42,7 +40,6 @@ const developer = {
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
