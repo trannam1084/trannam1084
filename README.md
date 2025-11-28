@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trannam1084&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trannam1084&show_icons=true&theme=gruvbox&card_width=500&card_height=200" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=trannam1084&theme=gruvbox&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=trannam1084&theme=gruvbox&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200" alt="GitHub Streak" />
 </div>
 
 ---
