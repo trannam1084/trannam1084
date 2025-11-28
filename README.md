@@ -97,3 +97,10 @@ const developer = {
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
+---
+
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
