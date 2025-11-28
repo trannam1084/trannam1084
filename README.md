@@ -59,7 +59,7 @@ const developer = {
 
 ## 💼 Featured Projects
 
-### 🚀 Project 1
+### 🚀 First Project
 - **Description**: RAG Chatbot project
 - **Tech Stack**: Streamlit, LangChain, Groq, Chroma, HuggingFace
 - **Link**: [GitHub](https://github.com/trannam1084/RAG-Chatbot)
