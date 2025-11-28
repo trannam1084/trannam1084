@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=trannam1084&theme=dark&hide_border=true&locale=vi&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=trannam1084&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 </div>
 
 ---
