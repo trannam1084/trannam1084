@@ -45,8 +45,3 @@
 </div>
 
 ---
-
-<div align="center">
-    
-  ![snake gif](https://github.com/trannam1084/trannam1084/blob/output/github-snake-dark.svg)
-</div>
