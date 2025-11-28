@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+My+Profile!;" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trannam1084&show_icons=true&theme=gruvbox&card_width=500&card_height=200" alt="GitHub Stats" />
 </div>
 
